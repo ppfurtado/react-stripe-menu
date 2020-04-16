@@ -1,3 +1,4 @@
+## [link para o css-tricks] (https://css-tricks.com/building-a-complex-ui-animation-in-react-simply/)
 ## A Stripe-style animated navbar menu
 Built with React, [Styled Components](https://www.styled-components.com/), and [React-Flip-Toolkit](https://github.com/aholachek/react-flip-toolkit).
 
